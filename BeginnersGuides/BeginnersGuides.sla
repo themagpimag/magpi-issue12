@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SCRIBUSUTF8NEW Version="1.4.2">
-    <DOCUMENT ANZPAGES="3" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="6" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.055" dispY="0.055" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+<SCRIBUSUTF8NEW Version="1.4.1.svn">
+    <DOCUMENT ANZPAGES="3" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="3" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.055" dispY="0.055" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -26,9 +26,9 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="TOC_Title_Style" FONT="FreeSans Bold" LANGUAGE="English"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="1" LEVEL="0" NAME="Header" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <LAYERS NUMMER="9" LEVEL="3" NAME="Effect:Header_bottom_bar" SICHTBAR="0" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="10" LEVEL="1" NAME="Effect : Header_Fade" SICHTBAR="0" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
@@ -43,7 +43,6 @@
         <LAYERS NUMMER="11" LEVEL="2" NAME="Effect : Header_Fade 002" SICHTBAR="0" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="0" useSpotColors="0" useColor="1" mirrorH="1" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="3.74231782764791e-308" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="2" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="0" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
-            <Subset Name="Courier New Regular"/>
             <Subset Name="FreeSans Bold"/>
             <Subset Name="FreeSans Bold Oblique"/>
             <Subset Name="FreeSans Oblique"/>
@@ -158,12 +157,12 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="110.59905507874" YPOS="834.11149604252" WIDTH="25.51181102" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 25.5118 0 25.5118 0 25.5118 0 25.5118 0 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 25.5118 0 25.5118 0 25.5118 0 25.5118 0 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold Oblique" FONTSIZE="16" FCOLOR="White" CH="6"/>
+            <ITEXT FONT="FreeSans Bold Oblique" FONTSIZE="16" FCOLOR="Black" CH="6"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="660.52031492126" YPOS="1716.00094486142" WIDTH="25.51181102" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 25.5118 0 25.5118 0 25.5118 0 25.5118 0 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 25.5118 0 25.5118 0 25.5118 0 25.5118 0 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold Oblique" FONTSIZE="16" FCOLOR="White" CH="7"/>
+            <ITEXT FONT="FreeSans Bold Oblique" FONTSIZE="16" FCOLOR="Black" CH="7"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -282,24 +281,24 @@
             <ITEXT CH="It is normally easier to find the correct resolution in the second list that shows the screen size in pixels e.g. 1024 x 768."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" FCOLOR="Black" CH="These values are valid if hdmi_group=2 (DMT)"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" FCOLOR="Black" CH="These values are valid if hdmi_group=2 (DMT)"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" FCOLOR="Black" CH="hdmi_mode=13   800x600   120Hz"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" FCOLOR="Black" CH="hdmi_mode=13   800x600   120Hz"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" FCOLOR="Black" CH="hdmi_mode=14   848x480   60Hz"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" FCOLOR="Black" CH="hdmi_mode=14   848x480   60Hz"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" FCOLOR="Black" CH="hdmi_mode=15   1024x768  43Hz"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" FCOLOR="Black" CH="hdmi_mode=15   1024x768  43Hz"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Bold" FCOLOR="Black" CH="hdmi_mode=16   1024x768  60Hz"/>
+            <ITEXT FONT="Courier 10 Pitch Bold" FCOLOR="Black" CH="hdmi_mode=16   1024x768  60Hz"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" FCOLOR="Black" CH="hdmi_mode=17   1024x768  70Hz"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" FCOLOR="Black" CH="hdmi_mode=17   1024x768  70Hz"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" FCOLOR="Black" CH="hdmi_mode=18   1024x768  75Hz"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" FCOLOR="Black" CH="hdmi_mode=18   1024x768  75Hz"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Make a note of the "/>
-            <ITEXT FONT="Courier New Regular" CH="hdmi_mode=X"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="hdmi_mode=X"/>
             <ITEXT FONT="FreeSans Regular" CH=" "/>
             <ITEXT CH="setting for the resolution you wish to apply."/>
             <para PARENT="Default Paragraph Style"/>
@@ -307,11 +306,11 @@
             <ITEXT CH="Within terminal enter the following command:"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="sudo nano /boot/config.txt"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="sudo nano /boot/config.txt"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="This will open the configuration file in the Nano editor to allow you to make a change.  Scroll down the file to the comment &quot;"/>
-            <ITEXT FONT="Courier New Regular" CH="# uncomment to force a specific HDMI mode (this will force VGA)"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="# uncomment to force a specific HDMI mode (this will force VGA)"/>
             <ITEXT CH="&quot;."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
@@ -319,46 +318,46 @@
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Remove the # to uncomment the two lines "/>
-            <ITEXT FONT="Courier New Regular" CH="hdmi_group"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="hdmi_group"/>
             <ITEXT CH=" and "/>
-            <ITEXT FONT="Courier New Regular" CH="hdmi_mode"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="hdmi_mode"/>
             <ITEXT CH=" and then edit them to read:"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="hdmi_group=2"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="hdmi_group=2"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="hdmi_mode=xx"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="hdmi_mode=xx"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="where xx is the number of the resolution mode you wish to use. Following on from my example above, for a 1024 x 768 resolution, I would use the line &quot;"/>
-            <ITEXT FONT="Courier New Regular" CH="hdmi_mode=16"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="hdmi_mode=16"/>
             <ITEXT CH="&quot;. "/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT FONT="FreeSans Regular" CH="In this example, the relevant section of the config.txt file would look like:"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="hdmi_force_hotplug=1"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="hdmi_force_hotplug=1"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="# uncomment to force a specific HDMI mode (this will force VGA)"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="# uncomment to force a specific HDMI mode (this will force VGA)"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="hdmi_group="/>
-            <ITEXT FONT="Courier New Bold" CH="2"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="hdmi_group="/>
+            <ITEXT FONT="Courier 10 Pitch Bold" CH="2"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="hdmi_mode="/>
-            <ITEXT FONT="Courier New Bold" CH="16"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="hdmi_mode="/>
+            <ITEXT FONT="Courier 10 Pitch Bold" CH="16"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="# uncomment to force a HDMI mode rather than DVI. This can make audio work in"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="# uncomment to force a HDMI mode rather than DVI. This can make audio work in"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="# DMT (computer monitor) modes"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="# DMT (computer monitor) modes"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="#hdmi_drive=2"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="#hdmi_drive=2"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="After saving the file in Nano (CTRL + X, Y to confirm and Enter to overwrite) and rebooting (&quot;"/>
-            <ITEXT FONT="Courier New Regular" CH="sudo reboot"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="sudo reboot"/>
             <ITEXT CH="&quot;) your RPi should restart with the new resolution."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
@@ -382,7 +381,7 @@
             <ITEXT CH="Fixing the issue is easy enough; you just need to install the LXDE screen saver from the terminal by giving the command:"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="sudo apt-get install xscreensaver"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="sudo apt-get install xscreensaver"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Once installed, find and launch the screen saver preferences from your application menu and you should be immediately prompted that the screen saver daemon is not running, click ok to launch it now. "/>
@@ -400,40 +399,40 @@
             <ITEXT CH="The solution to this issue is quite simple as long you know the two letter country code and layout variant (if applicable). If you do not know this information you can find it easily from your system (assuming you have selected the correct keyboard settings in Raspi-config) by using the command:"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="cat /etc/default/keyboard"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="cat /etc/default/keyboard"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="and checking the entries "/>
-            <ITEXT FONT="Courier New Regular" CH="XKBLAYOUT"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="XKBLAYOUT"/>
             <ITEXT CH=" and "/>
-            <ITEXT FONT="Courier New Regular" CH="XKBVARIANT"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="XKBVARIANT"/>
             <ITEXT CH="."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="# KEYBOARD CONFIGURATION FILE"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="# KEYBOARD CONFIGURATION FILE"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="XKBMODEL=&quot;logicda&quot;"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="XKBMODEL=&quot;logicda&quot;"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="FreeSans Bold" CH="XKBLAYOUT=&quot;ch&quot;"/>
+            <ITEXT FONT="Courier 10 Pitch Bold" CH="XKBLAYOUT=&quot;ch&quot;"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="FreeSans Bold" CH="XKBVARIANT=&quot;de_nodeadkeys&quot;"/>
+            <ITEXT FONT="Courier 10 Pitch Bold" CH="XKBVARIANT=&quot;de_nodeadkeys&quot;"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="XKBOPTIONS=&quot;&quot;"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="XKBOPTIONS=&quot;&quot;"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="With this information to hand you can edit the LXDE autostart configuration file to add the line &quot;"/>
-            <ITEXT FONT="Courier New Regular" CH="@setxkbmap XX YY"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="@setxkbmap XX YY"/>
             <ITEXT CH="&quot; where XX is the two letter country code and YY the keyboard variant. In my case I would edit the file by using the command:"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" FONTSIZE="12" CH="sudo nano /etc/xdg/lxsession/LXDE/autostart"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="12" CH="sudo nano /etc/xdg/lxsession/LXDE/autostart"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="and in the nano editor, appending the following line to the end of the file:"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONT="Courier New Regular" CH="@setxkbmap ch de_nodeadkeys"/>
+            <ITEXT FONT="Courier 10 Pitch Regular" CH="@setxkbmap ch de_nodeadkeys"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="After saving the file in Nano and rebooting, the keyboard layout should be correct within LXDE."/>
@@ -486,14 +485,14 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="110.59905508126" YPOS="2597.89039368032" WIDTH="25.51181102" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 25.5118 0 25.5118 0 25.5118 0 25.5118 0 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 25.5118 0 25.5118 0 25.5118 0 25.5118 0 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="7" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold Oblique" FONTSIZE="16" FCOLOR="White" CH="8"/>
+            <ITEXT FONT="FreeSans Bold Oblique" FONTSIZE="16" FCOLOR="Black" CH="8"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="1838.39503937032" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="34">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="534.34645669" YPOS="135" WIDTH="110.503937007874" HEIGHT="124" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="-1.49606299212587" LOCALY="1" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Adrian" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Adrian.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 110.504 0 110.504 0 110.504 0 110.504 0 110.504 124 110.504 124 110.504 124 110.504 124 0 124 0 124 0 124 0 124 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 110.504 0 110.504 0 110.504 0 110.504 0 110.504 124 110.504 124 110.504 124 110.504 124 0 124 0 124 0 124 0 124 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="531.517496904989" YPOS="136" WIDTH="112.060729980469" HEIGHT="123.6875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.747071533203125" LOCALSCY="0.747071533203125" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Adrian" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Adrian.jpg" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 112.061 0 112.061 0 112.061 0 112.061 0 112.061 123.688 112.061 123.688 112.061 123.688 112.061 123.688 0 123.688 0 123.688 0 123.688 0 123.688 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 112.061 0 112.061 0 112.061 0 112.061 0 112.061 123.688 112.061 123.688 112.061 123.688 112.061 123.688 0 123.688 0 123.688 0 123.688 0 123.688 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="0" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
