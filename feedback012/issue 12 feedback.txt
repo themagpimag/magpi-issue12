@@ -1,0 +1,48 @@
+
+Feedback for issue 12
+
+
+---------
+
+I'm a regular reader of the MagPi, and I like the varied articles and projects featured in each issue.
+James Medd
+
+---------
+
+[ed: In response to Paula Thomas' comment in Issue 11]
+There are people in some Amateur radio clubs who can build kits for little or no cost for handicapped people. I personally have built kits in the past for people with disabilities and in a "shoe on the other foot" story a friendly ham is building a kit for me due to a fine motor problem and vision issue.
+Steve Black
+
+-----------
+
+I have downloaded (several times) the magPi Issue 11 PDF and I find that the contents page, I presume, and first article on controlling your heating has no text within the page. Is this an error or a problem with me reading the PDF file?
+Gary
+[ed: We have had a number of comments from people who have had a few problems viewing Issue 11 in alternative PDF viewers. We would reccomend the magazine is read using Adobe Reader to get the best results. We are working to fully resolve the problem, and have fixed several similar issues in Issue 11]
+
+----------------
+
+I have had my new Pi for about two weeks now and it is great.
+David
+
+-------------
+
+God love ya.  Being that you have these available I guess a donation is in the works as I can't see how these could be provided w/o some sort of access fee.  This is what is great about this community and my hat is off to you guys in what you are providing for the community.
+Bill Raub
+
+---------------
+
+I think that you should have a listing of articles that have been written in The MagPi on your website. Now, if a user wants to check out what has been written or get back to some article he has read before, there is (or I could not find) no way to look at those, other than opening each issue separately.
+
+I think this would enhance user experience quite a lot. One way to do this would be to have issues' tables of content typed out on a page (call that "Issues" or whatever).
+
+Another feature could be that these TOCs could be interactive in the sense that one could open a pdf that consists of just the pages with that article (or letters to the editor or other content), or the issuu viewer opened at the correct page.
+
+Mikko Kouhia
+
+[ed: We do have something similar in mind for the future]
+
+--------------
+
+We have also received many questions regarding the shipping date of the hard copies of The MagPi from our recent Kickstarter, also available in our shop (http://www.themagpi.com/shop). Please be aware that we are working extremely hard to get these issues ready for distribution, and are making great progress. Updates can be read at http://www.kickstarter.com/projects/themagpi/the-magpi-magazine-from-virtual-to-reality/posts.
+
+--------------
