@@ -94,14 +94,18 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347091674805" YPOS="348.547821044922" WIDTH="538.588317871094" HEIGHT="459.282897949219" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 459.283 538.588 459.283 538.588 459.283 538.588 459.283 0 459.283 0 459.283 0 459.283 0 459.283 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 459.283 538.588 459.283 538.588 459.283 538.588 459.283 0 459.283 0 459.283 0 459.283 0 459.283 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="0" BACKITEM="-1">
-            <ITEXT CH="Last month we installed the CUPS printing onto our Raspberry Pi. Now you have got your printer up and working we can look at how to print from within our own applications. We are going to be using the Python programming language, but we'll also take a look at basic command line printing which can also be used for basic printing from other programming languages. "/>
+            <ITEXT CH="Last month we added CUPS printing onto the Raspberry Pi. Now you have got your printer up and working we can look at how to print from within our own applications. We are going to be using the Python programming language, but we'll also take a look at basic command line printing which can also be used for basic printing from other programming languages. "/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
             <ITEXT CH="First we will look at printing from the command-line. This can be useful within shell scripts or by making a system call within any programming language. The "/>
             <ITEXT FONT="Monaco Regular" CH="lp"/>
             <ITEXT CH=" or "/>
             <ITEXT FONT="Monaco Regular" CH="lpr"/>
-            <ITEXT CH=" commands are used for command-line printing. The names are an abbreviation of line-printer, although they are seldom used for printing to a true line-printer these days. Both commands work in a similar way, but use different options. This is historical from the early days of UNIX. Both lp and lpr are available on Linux so you can use whichever you prefer."/>
+            <ITEXT CH=" commands are used for command-line printing. The names are an abbreviation of line-printer, although they are seldom used for printing to a true line-printer these days. Both commands work in a similar way, but use different options. This is historical from the early days of UNIX. Both "/>
+            <ITEXT FONT="Monaco Regular" CH="lp"/>
+            <ITEXT CH=" and "/>
+            <ITEXT FONT="Monaco Regular" CH="lpr"/>
+            <ITEXT CH=" are available on Linux so you can use whichever you prefer."/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
             <ITEXT CH="The basic command to print a file to the default printer is:"/>
@@ -110,28 +114,24 @@
             <ITEXT CH=" lp &lt;filename&gt;"/>
             <para PARENT="code"/>
             <para PARENT="body text"/>
-            <ITEXT CH="You can select a different printer or specify only certain pages using different command-line options. You can find details at: "/>
+            <ITEXT CH="You can select a different printer or specify only certain pages using different command-line options. You can find details at:"/>
             <para PARENT="body text"/>
-            <ITEXT CH="http://www.cups.org/documentation.php/options.html"/>
+            <ITEXT CH=" http://www.cups.org/documentation.php/options.html"/>
             <para PARENT="body text"/>
             <ITEXT CH="or by looking at the help page on your own CUPS configuration page which we used in the previous article. "/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
-            <ITEXT CH="Unlike the original commands which could only handle text files, the "/>
-            <ITEXT FONT="Monaco Regular" CH="lp"/>
-            <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="lpr"/>
-            <ITEXT CH=" commands installed through CUPS can handle other formats as well. When you use the commands with a PDF, postscript or image file then it will convert the files using the printer drivers. We will be using this functionality later."/>
+            <ITEXT CH="Unlike the original commands which could only handle text files, the lp and lpr commands installed through CUPS can handle other formats as well. When you use the commands with a PDF, postscript or image file then CUPS will convert the files using the printer drivers. We will be using this feature later when we print a PDF file from a Python script."/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
-            <ITEXT CH="In some programming languages and GUI toolkits (see box) it's possible to generate printer output using similar instructions to how you generate graphical content for the screen. This is the case in PyGTK,PyQt and WxPython; but whilst the GTK and Qt toolkits are commonly used with other programming languages they are less used and less well documented on Python. WxPython can be useful if you are using Wx toolkit anyway, but the most common graphical toolkit on Python is Tkinter, which has very limited support for printing. "/>
+            <ITEXT CH="In some programming languages and GUI toolkits (see box) it's possible to generate printer output using similar instructions to how you generate graphical content for the screen. This is the case in PyGTK,PyQt and WxPython; but whilst the GTK and Qt toolkits are commonly used with other programming languages they are less used and less well documented on Python. WxPython can be useful if you are using Wx toolkit already, but the most common graphical toolkit on Python is Tkinter, which has very limited support for printing. "/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
-            <ITEXT CH="Instead of using toolkit support I have chosen to generate a pdf file using xhtml2pdf which is sent to the printer using a CUPS library called PyCups. This is easy to use and has the advantage that it doesn't need to be use a graphical environment and so can be used from within a command-line program or a daemon application running in the background.  "/>
+            <ITEXT CH="Instead of using toolkit support I have chosen to generate a pdf file using xhtml2pdf which is sent to the printer using a CUPS library called PyCups. This is easy to use and has the advantage that it doesn't need to be used in a graphical environment so can be used from within a command-line program or a daemon application running in the background.  "/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
-            <ITEXT CH="First we'll install some extra software. The python-cups provides the module so that python can communicate with the CUPS printers, python-pip will make installing xhtml2pdf easier and the python-dev libraries are needed to allow pip to install some of the libraries used by xhtml2pdf. Install these using the normal apt-get install:"/>
+            <ITEXT CH="First we'll install some additional packages. The python-cups library provides the module so that Python can communicate with the CUPS printers, python-pip will make installing xhtml2pdf easier and the python-dev libraries are needed to allow pip to install some of the libraries used by xhtml2pdf. Install these using the normal apt-get install:"/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
             <ITEXT CH=" sudo apt-get install python-cups python-pip "/>
@@ -148,18 +148,18 @@
             <ITEXT CH="This last stage will take a while to run as it will download and compile some additional libraries."/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
-            <ITEXT CH="You can now use xhtml2pdf on the command-line to convert from converting from a html page to a pdf file. You could try using a saved web pages, but in many cases it will only partially work due to the common use of Javascript which isn't rendered by xhtml2pdf. Instead I recommend creating the pages using standard html markup."/>
+            <ITEXT CH="You can now use xhtml2pdf on the command-line to convert from a HTML page to a PDF file. You could try using a saved web pages, but in many cases it will only partially work due to the common use of Javascript which isn't rendered by xhtml2pdf. Instead I recommend creating the pages using standard HTML markup."/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
-            <ITEXT CH="Here is a basic Python program which will list the available printers and then print to the first printer. This is an example created to show how you can add printing capability to your own program. If you are including this into your own application then you should add additional error checking as well as a way for the user to select the appropriate printer. "/>
+            <ITEXT CH="Below is a basic Python script which will list the available printers and then print to the first printer in the list. This is an example created to show how you can add printing capability to your own program. If you are including this into your own application then you should add additional error checking as well as a way for the user to select the appropriate printer (if multiple printers are installed). "/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
             <ITEXT CH="Line 4 imports the cups library and line 5 the xhtml2pdf library (note that it is imported as pisa which is the former name for the library and is how we will refer to it later)."/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
-            <ITEXT CH="Lines 11 to 14 generate some basic html formatted content. Whilst you could include the usual html and head information which you would normally include in a html page I have just added the content of the body section, which is sufficient. We then use CreatePDF on line 16 to convert that to a file and save it to the file in variable “filename”. "/>
+            <ITEXT CH="Lines 11 to 14 generate some basic HTML formatted content. Whilst you could include the usual HTML headers and head section, which you would normally include in a html page, I have just added the content of the body section which is sufficient for xhtml2pdf. We then use CreatePDF on line 16 to convert that to a file and save it to the file specified in variable “filename”. "/>
             <para PARENT="body text"/>
-            <ITEXT CH="I have included a very basic check for pdf errors at this point as invalid html could cause this to error. This provides a generic error which you may like to improve on in your own programs.  "/>
+            <ITEXT CH="I have included a very basic check for PDF errors at this point as invalid HTML could cause this to fail. This is only a generic error message which you may like to improve on in your own programs.  "/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
             <ITEXT CH="Line 19 is very important. The file needs to be closed so that the write completes and it's possible to read the file back in. Without this then nothing will print, and in my case I spent a lot of time tearing my hair out trying to work out what was going wrong. "/>
@@ -171,7 +171,10 @@
             <ITEXT CH="Finally on lines 29 and 30 we select the first printer and print the file using the printFile command."/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
-            <ITEXT CH="This has shown one of the ways that you can add printing to your own Python application. This method has been chosen as it's easy to implement and can be used for command-line and server applications as well as graphical software. So over to you; what projects do you have that need to be able to print?"/>
+            <ITEXT CH="When creating the script you need to create a name that doesn't conflict with any of the names of the library files imported. For instance do not call the script “cups” as that will conflict with the cups library. I used cupsprint.py during my testing. "/>
+            <para PARENT="body text"/>
+            <para PARENT="body text"/>
+            <ITEXT CH="This has shown one of the ways that you can add printing to your own Python application. This method has been chosen as it's easy to implement and can be used for command-line and server applications as well as graphical applications. So over to you; what projects do you have that need to be able to print?"/>
             <para PARENT="body text"/>
             <para PARENT="body text"/>
             <para/>
@@ -327,7 +330,7 @@
             <trail PARENT="body text" OpticalMargins="0" wordTrack="0.98"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="410.25" YPOS="1087.63584407296" WIDTH="256.685424804688" HEIGHT="477.56201171875" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="FromSVG#000000" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="5.66929133858268" TEXTRA="5.66929133858268" BEXTRA="5.66929133858268" REXTRA="5.66929133858268" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 248.181 0 248.181 0 248.181 0 252.878 0 256.685 8.50394 256.685 3.80734 256.685 8.50394 256.685 8.50394 256.685 469.058 256.685 469.058 256.685 469.058 256.685 473.755 248.181 477.562 252.878 477.562 248.181 477.562 248.181 477.562 8.50394 477.562 8.50394 477.562 8.50394 477.562 3.80734 477.562 0 469.058 0 473.755 0 469.058 0 469.058 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="32" COCOOR="8.50394 0 8.50394 0 248.181 0 248.181 0 248.181 0 252.878 0 256.685 8.50394 256.685 3.80734 256.685 8.50394 256.685 8.50394 256.685 469.058 256.685 469.058 256.685 469.058 256.685 473.755 248.181 477.562 252.878 477.562 248.181 477.562 248.181 477.562 8.50394 477.562 8.50394 477.562 8.50394 477.562 3.80734 477.562 0 469.058 0 473.755 0 469.058 0 469.058 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="410.25" YPOS="1164.17127714383" WIDTH="256.685424804688" HEIGHT="477.56201171875" RADRECT="8.50393700787402" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="FromSVG#000000" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="5.66929133858268" TEXTRA="5.66929133858268" BEXTRA="5.66929133858268" REXTRA="5.66929133858268" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="8.50394 0 8.50394 0 248.181 0 248.181 0 248.181 0 252.878 0 256.685 8.50394 256.685 3.80734 256.685 8.50394 256.685 8.50394 256.685 469.058 256.685 469.058 256.685 469.058 256.685 473.755 248.181 477.562 252.878 477.562 248.181 477.562 248.181 477.562 8.50394 477.562 8.50394 477.562 8.50394 477.562 3.80734 477.562 0 469.058 0 473.755 0 469.058 0 469.058 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMCO="32" COCOOR="8.50394 0 8.50394 0 248.181 0 248.181 0 248.181 0 252.878 0 256.685 8.50394 256.685 3.80734 256.685 8.50394 256.685 8.50394 256.685 469.058 256.685 469.058 256.685 469.058 256.685 473.755 248.181 477.562 252.878 477.562 248.181 477.562 248.181 477.562 8.50394 477.562 8.50394 477.562 8.50394 477.562 3.80734 477.562 0 469.058 0 473.755 0 469.058 0 469.058 0 8.50394 0 8.50394 0 8.50394 0 3.80734 8.50394 0 3.80734 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONTSIZE="10" CH="1. #!/usr/bin/env python"/>
             <para PARENT="code"/>
             <ITEXT FONTSIZE="10" CH="2. # Print a file to the printer"/>
@@ -356,7 +359,7 @@
             <para PARENT="code"/>
             <ITEXT CH="13.  xhtml += &quot;&lt;h2&gt;This is printed from "/>
             <para PARENT="code"/>
-            <ITEXT CH="     within a python application&lt;/h2&gt;\n&quot;"/>
+            <ITEXT CH="     within a Python application&lt;/h2&gt;\n&quot;"/>
             <para PARENT="code"/>
             <ITEXT CH="14.  xhtml += &quot;&lt;p style=\&quot;color:red;\&quot;&gt;"/>
             <para PARENT="code"/>
@@ -380,7 +383,7 @@
             <para PARENT="code"/>
             <ITEXT CH="21.    # print the file using cups"/>
             <para PARENT="code"/>
-            <ITEXT CH="22.    conn = cups.Connection ()"/>
+            <ITEXT CH="22.    conn = cups.Connection()"/>
             <para PARENT="code"/>
             <ITEXT CH="23.    # Get a list of all printers"/>
             <para PARENT="code"/>
