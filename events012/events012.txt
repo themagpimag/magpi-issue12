@@ -1,13 +1,6 @@
 Events for the may issue
 
-----------------------------
 
-Swansea Raspberry Jam session
-When:  Tuesday 7th May from 6pm
-Where: Giakonda IT, 3 Humphrey St, Swansea SA1 6BG
-Come along to share your ideas and projects. We have Pis available here if you don't have your own.
-
-------------------------------
 
 Bermuda - Raspberry Pi User Group (BRUG)- Raspberry Jam
 Admiralty House, Pembroke, BERMUDA
@@ -17,3 +10,54 @@ Email: rpi@sainib.com
 
 -------------
 
+Quick search for Events in May (and start of June) 2013.
+
+http://raspberryjam.org.uk/events/
+
+
+Preston Raspberry Jam #RJam, Monday 13th May 2013
+http://raspberryjam.org.uk/event/preston-raspberry-jam-rjam-monday-13th-may-2013/
+Event:
+Preston Raspberry Jam #RJam, Monday 13th May 2013
+Start:
+May 13, 2013 7:00 pm
+End:
+May 13, 2013 9:00 pm
+Organizer:
+Raspberry Jam
+Updated:
+April 18, 2013
+Venue:
+Room 101, C&T Building (Building is on opposite side of Flyde Rd from map pin)
+Address:
+Preston, Lancs, PR1 7BY, United Kingdom
+
+
+http://raspberryjam.org.uk/events/2013-05
+May 4th
+Raspberry Jam Malawi
+
+----------------------------
+
+Swansea Raspberry Jam session
+When:  Tuesday 7th May from 6pm
+Where: Giakonda IT, 3 Humphrey St, Swansea SA1 6BG
+Come along to share your ideas and projects. We have Pis available here if you don't have your own.
+
+------------------------------
+
+May 11th
+Manchester Raspberry Jam XI
+
+May 13th
+Preston Raspberry Jam #RJam, Monday 13th
+
+May 25
+Raspberry Jam Harlow May 2013
+
+
+Big Raspberry Jam Tokyo 2013
+Date: May 25th(Sat)
+Time: 1:00PM-6:00PM
+Place: IIJ Corp.(Jimbocho)
+http://www.raspberrypi.org/phpBB3/viewtopic.php?t=41419&p=336152
