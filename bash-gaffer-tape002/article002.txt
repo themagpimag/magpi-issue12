@@ -1,0 +1,103 @@
+BASH Gaffa Tape
+
+Patching together scripts
+
+
+
+Challenge Solution
+
+How did you get on with the Challenge Problem?  Here is a solution to the problem,
+
+#!/bin/bash
+# A script to gzip all of the files in the present working directory.
+# The script does not consider gzip files which have the .gz ending.
+for file in $(find $PWD -maxdepth 1 -type f | grep -v .gz); do
+  gzip $file
+done
+
+== Patching together scripts ==
+
+BASH (Born Again Shell) provides a lot of functionality, but one of its key strength is the way other scripting languages or programs can be lashed up to produce a final application.
+  
+== Embedded files ==
+
+Open a terminal window and use the nano editor mentioned within the last tutorial session.  Then create a new script file containing
+
+#!/bin/bash
+cat > input_file.txt <<EOF
+ColumnA_row1 ColumnB_row1 ColumnC_row1 ColumnD_row1
+ColumnA_row2 ColumnB_row2 ColumnC_row2 ColumnD_row2
+
+ColumnA_row3 ColumnB_row3 ColumnC_row3 ColumnD_row3
+ColumnA_row4 ColumnB_row4 ColumnC_row4 ColumnD_row4
+EOF
+
+save it and make it executable (chmod u+x script.sh).  Execute the script and look at the input_file.txt that it produces.  The input_file.txt matches the text given between the "<<EOF" and "EOF" statements.  For this script to work, there must not be a space after "<<EOF".  The syntax of the script states that the text following "<<EOF" is redirected to the file input_file.txt until EOF is reached.  The ">" redirect operator works in the same was as mentioned in the last tutorial, and truncates and then appends to the output file.  The "<<EOF" syntax can be very helpful for embedding parts of configuration files within a script, rather than using may echo commands.
+
+== Splitting input lines ==
+
+If a file is read using a standard for loop, then each word (separated by one or more spaces) becomes a value within the loop.  This can be helpful for some problems, but the line number information is lost.  The "read" command provides a solution,
+
+#!/bin/bash
+while read line; do
+  for word in $line; do
+    echo -n "$word "
+  done
+  echo ""
+done < input_file.txt
+
+In this example, the outer look reads each line of the file into the variable "line".  Then in the inner loop, each word within a line is considered by the for loop.  The "-n" in the echo command means that echo does not add a newline character after printing the line.  The input file is associated with the while loop by using an input redirection "<".
+
+== Using Perl ==
+
+Perl is a great language for string manipulation and can be easily used within BASH scripts,
+
+#!/bin/bash
+while read line; do
+  c=$(echo "$line" | perl -ne '@words=split(/\s+/,$_); print STDOUT $words[2];')
+  d=$(echo "$line" | perl -ne '@words=split(/\s+/,$_); print STDOUT $words[3];')
+  echo $c $d
+done < input_file.txt
+
+In this case, the outer while loop is the same as the previous example.  "$line" is used to make sure the white spaces are also sent to the perl command.  Using the pipe operator causes the output of the echo command to be the input of the Perl command.  The -ne options allow perl to be embedded in this manner.  The $_ variable contains the value present in the variable line.  Then the split command splits the words with one or more spaces (\s+) into the array @words.  The second and third array elements correspond to the c and d columns of the file, where the first column is the zeroth element.  Similar to C, each Perl statement is terminated by a semicolon.  More information on perl can be found at http://www.perl.org/.
+
+Once the line has been split into different strings, one of the strings can be used as a signal that the rest of the file should be printed,
+
+#!/bin/bash
+found=0
+while read line; do
+  c=$(echo "$line" | perl -ne '@words=split(/\s+/,$_); if($#words >= 3) { print STDOUT $words[2]; }')
+  if [[ -z $c ]]; then
+    continue 
+  fi
+  if [[ $c == "ColumnC_row2" ]]; then
+    found=1
+  fi
+  if [[ $found == 1 ]]; then
+    echo $line
+  fi
+done < input_file.txt
+
+This time the Perl part of the script checks the array size and only uses the third element if there are three or more array elements.  The first if statement ignores zero length c variables, which would be caused by there being less than three words in a given line.  Then as soon as found is set to one, the rest of the file is printed to the screen.
+
+==Using other programs==
+
+Several different programs can be lashed together within the same script.  For example, gnuplot used in previous C Cave  can be used to produce a png file illustration of a mathematical function
+
+#!/bin/bash
+gnuplot -persist <<EOF
+set terminal pngcairo 
+set output 'sin.png'
+set key inside right top
+set yrange [-1.2:1.2]
+set samples 60, 60
+plot [-6:6] sin(x)
+EOF
+
+The <<EOF syntax implies that the commands are passed to the gnuplot program.  The -persist gnuplot option is used to keep the gnuplot session open, such that is reads the commands after the <<EOF.  More information on gnuplot can be found at http://www.gnuplot.info/.
+
+==Challenge problem==
+
+Write a program to gzip all of the files in the present working directory.  The program should not gzip files which have the .gz ending.  The solution to the problem will be given in the next tutorial.
+
+W. H. Bell
