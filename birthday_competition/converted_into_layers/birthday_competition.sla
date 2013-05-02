@@ -346,7 +346,56 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="187" YPOS="974" WIDTH="467" HEIGHT="246" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 467 0 467 0 467 0 467 0 467 246 467 246 467 246 467 246 0 246 0 246 0 246 0 246 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 467 0 467 0 467 0 467 0 467 246 467 246 467 246 467 246 0 246 0 246 0 246 0 246 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="22" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="1x"/>
+            <ITEXT CH="1st: 1x The MagPi volume 1 bundle 1x Adafruit Raspberry Pi Starter Pack"/>
+            <para/>
+            <ITEXT CH="Includes a Raspberry Pi Computer"/>
+            <para/>
+            <ITEXT CH="1x Adafruit Prototyping Pi Plate Kit for Pi 1x Adafruit Pi Cobbler Breakout"/>
+            <para/>
+            <ITEXT CH="Kit for Pi 1x Adafruit microSD card adapter for Pi"/>
+            <para/>
+            <ITEXT CH="1x Bare Conductive House Kits 1x Programming RasPi Book (S Monk) 1x LEDborg 1x"/>
+            <para/>
+            <ITEXT CH="PicoBorg 1x BerryClip"/>
+            <para/>
+            <ITEXT CH="1x Pi Supply Kit 1x Python for Kids book 1x Quick2Wire full kits (each with"/>
+            <para/>
+            <ITEXT CH="interface kit, port expander kit and analogue kit)"/>
+            <para/>
+            <para/>
+            <ITEXT CH="2nd: 1x Bare Conductive Card Kits 1x Pi Model B, Case, power supply and SD"/>
+            <para/>
+            <ITEXT CH="Card (from RS components) 1x LEDborg"/>
+            <para/>
+            <ITEXT CH="1x PicoBorg 1x BerryC|ip 1x Pi Supply Kit 1x Quick2Wire full kits (each with"/>
+            <para/>
+            <ITEXT CH="interface kit, port expander kit and analogue kit)"/>
+            <para/>
+            <ITEXT CH="1x plO micro sd adapter 1x Super Scratch Adventure books 1x Programming"/>
+            <para/>
+            <ITEXT CH="Arduino Book (S Monk)"/>
+            <para/>
+            <para/>
+            <ITEXT CH="3rd: 1x Proto Armour case 1x Bare Conductive House Kits 1x LEDborg 1x"/>
+            <para/>
+            <ITEXT CH="PicoBorg 1x BerryClip"/>
+            <para/>
+            <ITEXT CH="1x Pi Supply Kit 1x Quick2Wire full kits (each with interface kit, port"/>
+            <para/>
+            <ITEXT CH="expander kit and analogue kit)"/>
+            <para/>
+            <ITEXT CH="1x plO micro sd adapter 1x Python for Kids book 1x Programming RasPi Book (S"/>
+            <para/>
+            <ITEXT CH="Monk)"/>
+            <para/>
+            <para/>
+            <ITEXT CH="4th: 1x CPC vesa mount case 1x Bare Conductive Card Kits 1x LEDborg 1x"/>
+            <para/>
+            <ITEXT CH="PicoBorg 1x BerryClip 1x Pi Supply Kit"/>
+            <para/>
+            <ITEXT CH="1x plO micro sd adapter 1x Super Scratch Adventure books 1x Programming"/>
+            <para/>
+            <ITEXT CH="Arduino Book (S Monk)"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
