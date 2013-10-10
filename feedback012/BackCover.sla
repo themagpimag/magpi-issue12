@@ -24,7 +24,7 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" RGB="#ffff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="Body  Headings" ALIGN="3" LINESPMode="0" LINESP="16.8" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="FreeSans Bold" FONTSIZE="14" FEATURES="inherit underline" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <STYLE NAME="Body Text" ALIGN="3" LINESPMode="0" LINESP="14" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <STYLE NAME="Code Text" ALIGN="3" LINESPMode="0" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Courier 10 Pitch Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
@@ -32,13 +32,13 @@
         <STYLE NAME="Main Sub-Heading" ALIGN="3" LINESPMode="0" LINESP="22" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="FreeSans Bold Oblique" FONTSIZE="18" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <STYLE NAME="Body Text Cent" ALIGN="1" LINESPMode="0" LINESP="14" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="FreeSans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <STYLE NAME="Body Text s+" ALIGN="3" LINESPMode="0" LINESP="21.6" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="FreeSans Regular" FONTSIZE="18" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Bitstream Charter Bold" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <LAYERS NUMMER="1" LEVEL="1" NAME="images" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <LAYERS NUMMER="2" LEVEL="2" NAME="text" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
         <LAYERS NUMMER="3" LEVEL="3" NAME="Page_number" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="1" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="1.98387909936127e-316" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="8.50393700787402" BLeft="8.50393700787402" BRight="8.50393700787402" BBottom="8.50393700787402" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" docInfoMarks="1" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="0" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="2" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="600" Resolution="600" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="8.50393700787402" BLeft="8.50393700787402" BRight="8.50393700787402" BBottom="8.50393700787402" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="0" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Fonts Name="Bitstream Charter Bold"/>
             <Fonts Name="Bitstream Charter Bold Italic"/>
             <Fonts Name="Nimbus Sans L Bold Condensed"/>
@@ -133,7 +133,7 @@
             <ITEXT FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="White" FSHADE="100" KERN="-5" CH="Steve Black"/>
             <para ALIGN="2"/>
             <para ALIGN="2"/>
-            <ITEXT FONT="FreeSans Oblique" FONTSIZE="10" FCOLOR="White" FSHADE="100" KERN="-5" CH="[ed: In response to Paula Thomas' comment in Issue 11.]"/>
+            <ITEXT FONT="FreeSans Oblique" FONTSIZE="10" FCOLOR="White" FSHADE="100" KERN="-5" CH="[Ed: In response to Paula Thomas' comment in Issue 11.]"/>
             <para ALIGN="0"/>
             <para/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="10" FCOLOR="Cyan" FSHADE="100" KERN="-5" CH="I have downloaded (several times) The MagPi Issue 11 PDF and I find that the contents page, I presume, and first article on controlling your heating has no text within the page. Is this an error or a problem with me reading the PDF file?"/>
@@ -142,7 +142,7 @@
             <ITEXT FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="Cyan" FSHADE="100" KERN="-5" CH="Gary"/>
             <para ALIGN="2"/>
             <para/>
-            <ITEXT FONT="FreeSans Oblique" FONTSIZE="10" FCOLOR="Cyan" FSHADE="100" KERN="-5" CH="[ed: We've had a number of comments from people who have had a few problems viewing Issue 11 in alternative PDF viewers. We would recommend the magazine is read using Adobe Reader to get the best results. We are working to fully resolve the problem, and have fixed several similar issues in Issue 11.]"/>
+            <ITEXT FONT="FreeSans Oblique" FONTSIZE="10" FCOLOR="Cyan" FSHADE="100" KERN="-5" CH="[Ed: We've had a number of comments from people who have had a few problems viewing Issue 11 in alternative PDF viewers. We would recommend the magazine is read using Adobe Reader to get the best results. We are working to fully resolve the problem and have fixed several similar issues in Issue 11.]"/>
             <para/>
             <para/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="10" FCOLOR="White" FSHADE="100" KERN="-5" CH="God love ya.  Being that you have these available I guess a donation is in the works as I can't see how these could be provided w/o some sort of access fee.  This is what is great about this community and my hat is off to you guys in what you are providing for the community."/>
@@ -154,10 +154,10 @@
             <ITEXT FONT="FreeSans Regular" FONTSIZE="10" FCOLOR="Cyan" FSHADE="100" CH="I have had my new Pi for about two weeks now and it is great."/>
             <para/>
             <para ALIGN="2"/>
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="10" FCOLOR="Cyan" FSHADE="100" CH="David"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="Cyan" FSHADE="100" CH="David"/>
             <para ALIGN="2"/>
             <para/>
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="10" FCOLOR="White" FSHADE="100" KERN="-5" CH="I'm a regular reader of the MagPi, and I like the varied articles and projects featured in each issue."/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="10" FCOLOR="White" FSHADE="100" KERN="-5" CH="I'm a regular reader of The MagPi and I like the varied articles and projects featured in each issue."/>
             <para/>
             <para ALIGN="2"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="White" FSHADE="100" KERN="-5" CH="James Medd"/>
@@ -175,7 +175,7 @@
             <ITEXT FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="Cyan" FSHADE="100" KERN="-5" CH="Mikko Kouhia"/>
             <para ALIGN="2"/>
             <para/>
-            <ITEXT FONT="FreeSans Oblique" FONTSIZE="10" FCOLOR="Cyan" FSHADE="100" KERN="-5" CH="[ed: We do have something similar in mind for the future.]"/>
+            <ITEXT FONT="FreeSans Oblique" FONTSIZE="10" FCOLOR="Cyan" FSHADE="100" KERN="-5" CH="[Ed: We do have something similar in mind for the future.]"/>
             <para ALIGN="0"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
